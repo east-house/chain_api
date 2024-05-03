@@ -1,0 +1,5 @@
+{
+    "USER_PREFIX":"<|USER|>",
+    "AI_PREFIX":"<|ASSISTANT|>",
+    "SYSTEM_PREFIX":"<|SYSTEM|>"
+}
